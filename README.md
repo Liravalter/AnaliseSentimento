@@ -1,7 +1,9 @@
 # AnaliseSentimento
 
-
+## Ferramentas 🛠️
 ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
+
+
 O recurso Análise de Sentimento da API Text Analytics fornece rótulos de sentimento (como "negativo", "neutro" e "positivo") e pontuações de confiança no nível da frase e do documento.
 
 O Texto digitado foi:

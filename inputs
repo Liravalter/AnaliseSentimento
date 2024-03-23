@@ -1,0 +1,95 @@
+{
+    "documents": [
+        {
+            "id": "id__55068",
+            "sentiment": "mixed",
+            "confidenceScores": {
+                "positive": 0.65,
+                "neutral": 0.1,
+                "negative": 0.25
+            },
+            "sentences": [
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.61,
+                        "neutral": 0.39,
+                        "negative": 0
+                    },
+                    "offset": 0,
+                    "length": 18,
+                    "text": "Dear mom and dad. "
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 18,
+                    "length": 41,
+                    "text": "Sarah and I are having lots of fun here! "
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 59,
+                    "length": 20,
+                    "text": "The hotel is great. "
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 1,
+                        "negative": 0
+                    },
+                    "offset": 79,
+                    "length": 64,
+                    "text": "There is a huge swimming pool, and there are two tennis courts. "
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 1,
+                        "negative": 0
+                    },
+                    "offset": 143,
+                    "length": 57,
+                    "text": "There are three restaurants, and there is a coffee shop. "
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 200,
+                    "length": 59,
+                    "text": "There is a gift shop too, but everything is too expensive. "
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 1,
+                        "negative": 0
+                    },
+                    "offset": 259,
+                    "length": 32,
+                    "text": "In our room there is a huge TV. "
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
